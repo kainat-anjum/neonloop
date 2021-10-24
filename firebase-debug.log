@@ -1,0 +1,25 @@
+[debug] [2021-10-24T17:50:28.065Z] ----------------------------------------------------------------------
+[debug] [2021-10-24T17:50:28.067Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Emumba\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2021-10-24T17:50:28.067Z] CLI Version:   9.21.0
+[debug] [2021-10-24T17:50:28.067Z] Platform:      win32
+[debug] [2021-10-24T17:50:28.067Z] Node Version:  v14.17.0
+[debug] [2021-10-24T17:50:28.068Z] Time:          Sun Oct 24 2021 22:50:28 GMT+0500 (Pakistan Standard Time)
+[debug] [2021-10-24T17:50:28.068Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2021-10-24T17:50:28.120Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2021-10-24T17:50:28.120Z] > authorizing via signed-in user (kainat.anjumm@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  D:\emumba\neonloop
+
+Before we get started, keep in mind:
+
+  * You are initializing within an existing Firebase project directory
+
