@@ -101,6 +101,12 @@ export const HomeWrapperStyled = styled.section`
       grid-gap: 30px;
     }
 
+    .card-image{
+      width:100%;
+      height: 200px;
+      object-fit: cover;
+    }
+
     .card {
       border: 1px solid #ccc;
       padding: 20px;

@@ -3,12 +3,13 @@ import styled from "styled-components";
 export const FooterStyled = styled.footer`
   background: #24baee;
   margin-top: 100px;
-  height: 200px;
+  height: 100px;
   padding: 20px 100px;
   color: #fff;
 
   .footer-heading {
     font-weight: bold;
+    margin-bottom: 10px
   }
 
   .footer-grid {
@@ -23,6 +24,6 @@ export const FooterStyled = styled.footer`
 
   .company{
       justify-self:center;
-      
+
   }
 `;
